@@ -1,0 +1,238 @@
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\appsettings.json
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\myapi.exe
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\myapi.deps.json
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\myapi.runtimeconfig.json
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\myapi.dll
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\myapi.pdb
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\obj\Debug\net6.0\myapi.csproj.AssemblyReference.cache
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\obj\Debug\net6.0\myapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\obj\Debug\net6.0\myapi.AssemblyInfoInputs.cache
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\obj\Debug\net6.0\myapi.AssemblyInfo.cs
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\obj\Debug\net6.0\myapi.csproj.CoreCompileInputs.cache
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\obj\Debug\net6.0\myapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\obj\Debug\net6.0\myapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\obj\Debug\net6.0\staticwebassets\msbuild.myapi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\obj\Debug\net6.0\staticwebassets\msbuild.build.myapi.props
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.myapi.props
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.myapi.props
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\obj\Debug\net6.0\scopedcss\bundle\myapi.styles.css
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\obj\Debug\net6.0\myapi.csproj.CopyComplete
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\obj\Debug\net6.0\myapi.dll
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\obj\Debug\net6.0\refint\myapi.dll
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\obj\Debug\net6.0\myapi.pdb
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\obj\Debug\net6.0\myapi.genruntimeconfig.cache
+C:\Users\monasser\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\myapi\myapi\obj\Debug\net6.0\ref\myapi.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\appsettings.Development.json
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\appsettings.json
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\myapi.exe
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\myapi.deps.json
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\myapi.runtimeconfig.json
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\myapi.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\myapi.pdb
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\Humanizer.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Lec 3\myapi\myapi\obj\Debug\net6.0\myapi.csproj.AssemblyReference.cache
+E:\Lec 3\myapi\myapi\obj\Debug\net6.0\myapi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lec 3\myapi\myapi\obj\Debug\net6.0\myapi.AssemblyInfoInputs.cache
+E:\Lec 3\myapi\myapi\obj\Debug\net6.0\myapi.AssemblyInfo.cs
+E:\Lec 3\myapi\myapi\obj\Debug\net6.0\myapi.csproj.CoreCompileInputs.cache
+E:\Lec 3\myapi\myapi\obj\Debug\net6.0\myapi.MvcApplicationPartsAssemblyInfo.cs
+E:\Lec 3\myapi\myapi\obj\Debug\net6.0\myapi.MvcApplicationPartsAssemblyInfo.cache
+E:\Lec 3\myapi\myapi\obj\Debug\net6.0\staticwebassets.build.json
+E:\Lec 3\myapi\myapi\obj\Debug\net6.0\staticwebassets.development.json
+E:\Lec 3\myapi\myapi\obj\Debug\net6.0\staticwebassets\msbuild.myapi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Lec 3\myapi\myapi\obj\Debug\net6.0\staticwebassets\msbuild.build.myapi.props
+E:\Lec 3\myapi\myapi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.myapi.props
+E:\Lec 3\myapi\myapi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.myapi.props
+E:\Lec 3\myapi\myapi\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Lec 3\myapi\myapi\obj\Debug\net6.0\scopedcss\bundle\myapi.styles.css
+E:\Lec 3\myapi\myapi\obj\Debug\net6.0\myapi.csproj.Up2Date
+E:\Lec 3\myapi\myapi\obj\Debug\net6.0\myapi.dll
+E:\Lec 3\myapi\myapi\obj\Debug\net6.0\refint\myapi.dll
+E:\Lec 3\myapi\myapi\obj\Debug\net6.0\myapi.pdb
+E:\Lec 3\myapi\myapi\obj\Debug\net6.0\myapi.genruntimeconfig.cache
+E:\Lec 3\myapi\myapi\obj\Debug\net6.0\ref\myapi.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\Google.Protobuf.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\MySql.Data.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\System.IO.Pipelines.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\System.Text.Json.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\ZstdSharp.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+E:\Lec 3\myapi\myapi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\appsettings.Development.json
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\appsettings.json
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\myapi.exe
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\myapi.deps.json
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\myapi.runtimeconfig.json
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\myapi.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\myapi.pdb
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\Google.Protobuf.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\Humanizer.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\MySql.Data.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\System.IO.Pipelines.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\System.Text.Json.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\ZstdSharp.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\obj\Debug\net6.0\myapi.csproj.AssemblyReference.cache
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\obj\Debug\net6.0\myapi.GeneratedMSBuildEditorConfig.editorconfig
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\obj\Debug\net6.0\myapi.AssemblyInfoInputs.cache
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\obj\Debug\net6.0\myapi.AssemblyInfo.cs
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\obj\Debug\net6.0\myapi.csproj.CoreCompileInputs.cache
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\obj\Debug\net6.0\myapi.MvcApplicationPartsAssemblyInfo.cs
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\obj\Debug\net6.0\myapi.MvcApplicationPartsAssemblyInfo.cache
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\obj\Debug\net6.0\staticwebassets.build.json
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\obj\Debug\net6.0\staticwebassets.development.json
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\obj\Debug\net6.0\staticwebassets\msbuild.myapi.Microsoft.AspNetCore.StaticWebAssets.props
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\obj\Debug\net6.0\staticwebassets\msbuild.build.myapi.props
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.myapi.props
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.myapi.props
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\obj\Debug\net6.0\staticwebassets.pack.json
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\obj\Debug\net6.0\scopedcss\bundle\myapi.styles.css
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\obj\Debug\net6.0\myapi.csproj.CopyComplete
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\obj\Debug\net6.0\myapi.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\obj\Debug\net6.0\refint\myapi.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\obj\Debug\net6.0\myapi.pdb
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\obj\Debug\net6.0\myapi.genruntimeconfig.cache
+F:\cloud zeft\cloud zeft\myapi\myapi\myapi\obj\Debug\net6.0\ref\myapi.dll

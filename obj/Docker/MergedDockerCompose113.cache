@@ -1,0 +1,143 @@
+name: dockercompose7748410664791068075
+services:
+  myapi:
+    build:
+      context: F:\cloud zeft\cloud zeft\myapi\myapi
+      dockerfile: myapi/Dockerfile
+      args:
+        BUILD_CONFIGURATION: Debug
+      labels:
+        com.microsoft.created-by: visual-studio
+        com.microsoft.visual-studio.project-name: myapi
+      target: base
+    container_name: backend
+    depends_on:
+      myshapsqlserver.database.windows.net:
+        condition: service_started
+        required: true
+    entrypoint:
+      - tail
+      - -f
+      - /dev/null
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS: "true"
+      ASPNETCORE_URLS: https://+:7249;http://+:80
+      ConnectionStrings:DefaultConnection: Server=Server=tcp:myshopsqlserver.database.windows.net,1433;Initial Catalog=myshop;Persist Security Info=False;User ID=sadmin;Password=Monasser2@;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
+      DOTNET_USE_POLLING_FILE_WATCHER: "1"
+      NUGET_FALLBACK_PACKAGES: /.nuget/fallbackpackages
+    image: myapi:dev
+    labels:
+      com.microsoft.visualstudio.debuggee.arguments: ' --additionalProbingPath /.nuget/packages --additionalProbingPath /.nuget/fallbackpackages  "/app/bin/Debug/net6.0/myapi.dll"'
+      com.microsoft.visualstudio.debuggee.killprogram: /bin/sh -c "if PID=$$(pidof dotnet); then kill $$PID; fi"
+      com.microsoft.visualstudio.debuggee.program: dotnet
+      com.microsoft.visualstudio.debuggee.workingdirectory: /app
+    networks:
+      mydemo: null
+    ports:
+      - mode: ingress
+        target: 7249
+        published: "7249"
+        protocol: tcp
+      - mode: ingress
+        target: 80
+        protocol: tcp
+    restart: always
+    tty: true
+    volumes:
+      - type: bind
+        source: C:\Users\monasser\AppData\Roaming/Microsoft/UserSecrets
+        target: /root/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\monasser\AppData\Roaming/ASP.NET/Https
+        target: /root/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: F:\cloud zeft\cloud zeft\myapi\myapi\myapi
+        target: /app
+        bind:
+          create_host_path: true
+      - type: bind
+        source: F:\cloud zeft\cloud zeft\myapi\myapi
+        target: /src
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\monasser\vsdbg\vs2017u5
+        target: /remote_debugger
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\monasser\.nuget\packages\
+        target: /.nuget/packages
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages
+        target: /.nuget/fallbackpackages
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\monasser\AppData\Roaming/ASP.NET/Https
+        target: /home/app/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\monasser\AppData\Roaming/Microsoft/UserSecrets
+        target: /home/app/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Sdks\Microsoft.Docker.Sdk\tools\TokenService.Proxy\linux-x64\net6.0
+        target: /TokenService.Proxy
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Sdks\Microsoft.Docker.Sdk\tools\HotReloadProxy\linux-x64\net6.0
+        target: /HotReloadProxy
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\HotReload
+        target: /HotReloadAgent
+        read_only: true
+        bind:
+          create_host_path: true
+  myfrontend:
+    container_name: frontend
+    image: frontend
+    networks:
+      mydemo: null
+    ports:
+      - mode: ingress
+        target: 3000
+        published: "3000"
+        protocol: tcp
+  myshapsqlserver.database.windows.net:
+    container_name: sqlserver
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_DATABASE: myshop
+      MSSQL_SA_PASSWORD: Monasser2@
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    networks:
+      mydemo: null
+    ports:
+      - mode: ingress
+        target: 1433
+        published: "80"
+        protocol: tcp
+networks:
+  mydemo:
+    name: dockercompose7748410664791068075_mydemo

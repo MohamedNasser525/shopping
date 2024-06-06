@@ -1,0 +1,44 @@
+E:\Lec 3\myapi\bin\Debug\myapi.deps.json
+E:\Lec 3\myapi\bin\Debug\myapi.runtimeconfig.json
+E:\Lec 3\myapi\bin\Debug\appsettings.Development.json
+E:\Lec 3\myapi\bin\Debug\appsettings.json
+E:\Lec 3\myapi\bin\Debug\myapi.exe
+E:\Lec 3\myapi\bin\Debug\myapi.dll
+E:\Lec 3\myapi\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\Lec 3\myapi\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Lec 3\myapi\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+E:\Lec 3\myapi\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Lec 3\myapi\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Lec 3\myapi\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Lec 3\myapi\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\Lec 3\myapi\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\Lec 3\myapi\bin\Debug\Microsoft.OpenApi.dll
+E:\Lec 3\myapi\bin\Debug\myapi.pdb
+E:\Lec 3\myapi\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+E:\Lec 3\myapi\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+E:\Lec 3\myapi\obj\Debug\docker-c.35A3FFBA.Up2Date
+E:\Lec 3\myapi\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Lec 3\myapi\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\Lec 3\myapi\bin\Debug\Microsoft.Identity.Client.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\bin\Debug\appsettings.Development.json
+F:\cloud zeft\cloud zeft\myapi\myapi\bin\Debug\appsettings.json
+F:\cloud zeft\cloud zeft\myapi\myapi\bin\Debug\myapi.deps.json
+F:\cloud zeft\cloud zeft\myapi\myapi\bin\Debug\myapi.runtimeconfig.json
+F:\cloud zeft\cloud zeft\myapi\myapi\bin\Debug\myapi.exe
+F:\cloud zeft\cloud zeft\myapi\myapi\bin\Debug\myapi.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\bin\Debug\Microsoft.EntityFrameworkCore.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\bin\Debug\Microsoft.OpenApi.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\bin\Debug\Microsoft.Data.SqlClient.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\bin\Debug\Microsoft.Identity.Client.dll
+F:\cloud zeft\cloud zeft\myapi\myapi\bin\Debug\myapi.pdb
+F:\cloud zeft\cloud zeft\myapi\myapi\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+F:\cloud zeft\cloud zeft\myapi\myapi\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+F:\cloud zeft\cloud zeft\myapi\myapi\obj\Debug\docker-compose.dcproj.CopyComplete

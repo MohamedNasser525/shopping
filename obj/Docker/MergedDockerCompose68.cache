@@ -1,0 +1,51 @@
+name: dockercompose3027303442718310383
+services:
+  myapi:
+    build:
+      context: E:\Lec 3\myapi
+      dockerfile: myapi/Dockerfile
+    container_name: backend
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+      ConnectionStrings:DefaultConnection: Server=tcp:myshopsqlserver.database.windows.net,1433;Initial Catalog=myshop;Persist Security Info=False;User ID=sadmin;Password=Monasser2@;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
+    image: myapi
+    networks:
+      mydemo: null
+    ports:
+      - mode: ingress
+        target: 80
+        protocol: tcp
+      - mode: ingress
+        target: 443
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\Mohamed_Wael\AppData\Roaming/Microsoft/UserSecrets
+        target: /root/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\Mohamed_Wael\AppData\Roaming/ASP.NET/Https
+        target: /root/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+  myshopsqlserver.database.windows.net:
+    container_name: sqlserver
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_DATABASE: newdb
+      MSSQL_SA_PASSWORD: Mohamed123@
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    networks:
+      mydemo: null
+    ports:
+      - mode: ingress
+        target: 1433
+        published: "80"
+        protocol: tcp
+networks:
+  mydemo:
+    name: dockercompose3027303442718310383_mydemo
