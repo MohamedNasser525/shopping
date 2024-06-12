@@ -1,0 +1,51 @@
+version: '3.4'
+
+networks:
+  mydemo:
+
+services:
+ 
+  myfrontend:
+    container_name: frontend
+    image: frontendimage
+    build:
+      context: .
+      dockerfile: F:/cloud zeft/cloud zeft/araf/araf/Dockerfile
+    ports:
+      - "3000:80"
+    networks:
+      - mydemo
+
+
+  myshapsqlserver.database.windows.net:
+    container_name: sqlserver
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    ports:
+      - 80:1433
+    environment:
+      ACCEPT_EULA: Y
+      MSSQL_SA_PASSWORD: Mohamed123@
+      MSSQL_DATABASE: newdb
+    networks:
+      - mydemo
+
+  myapi:
+    container_name: backend
+    image: ${DOCKER_REGISTRY-}myapi
+    build:
+      context: .
+      dockerfile: myapi/Dockerfile
+    ports:
+     - "7249:7249" 
+    depends_on:
+      - myshapsqlserver.database.windows.net
+    environment:
+    - ConnectionStrings:DefaultConnection=Server=Server=tcp:myshopsqlserver.database.windows.net,1433;Initial Catalog=myshop;Persist Security Info=False;User ID=sadmin;Password=Monasser2@;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
+    #   DBServer: "demodb"
+    #   connectionString: "Server=localhost,1433; Initial Catalog=newdbb; User ID=sa; Password=Mohamed123@"
+    networks:
+      - mydemo
+    restart: always
+    
+
+
